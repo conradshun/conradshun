@@ -9,11 +9,10 @@
 
 - 🌱 I’m currently learning **Python, Javascript, Typescript**
 
-- 📫 How to reach me **conradmativo@gmail.com**
+- 📫 How to reach me **conradmativo25@gmail.com**
 
 - ⚡ Fun fact **I am an avid gamer and a journalist.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
