@@ -12,7 +12,7 @@
 - 📫 How to reach me **conradmativo25@gmail.com**
 
 - ⚡ Fun fact **I am an avid gamer and a journalist.**
-
+![Codewars](https://github.r2v.ch/codewars?user=Concyzxc)
 <p align="left">
 </p>
 
